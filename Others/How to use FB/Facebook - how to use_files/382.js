@@ -1,0 +1,1 @@
+window.eClick||document.write('<script type="text/javascript" src="http://e.eclick.vn/delivery/asset/283054881/eclick.js"></script>');document.write('<div class="eclick" data-zone-id="382"></div>')

@@ -1,0 +1,46 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: DUY KHIN.pdf
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: points
+Artboard Dimensions: 595.28 pt x 841.89 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Roboto Condensed (OTF)
+Roboto Bold Condensed (OTF)
+SFU Helvetica CondensedBold (TrueType)
+SFU Helvetica Bold (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/mac/Desktop/DUY KHIN_Folder/Links/048.jpg
+Type: Grayscale
+Bits per Pixel: 8
+Channels: 1
+Size: 5618K, 2900 by 1984 pixels
+Dimensions: 595.28 by 407.254 points 
+Resolution: 350.759 by 350.759 pixels per inch
